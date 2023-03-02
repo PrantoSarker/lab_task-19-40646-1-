@@ -14,3 +14,7 @@
  
  #Upload image validation
  ![5](https://user-images.githubusercontent.com/65063044/222367082-74909464-e9c0-4e33-a452-231c4b202704.png)
+ 
+ ![6](https://user-images.githubusercontent.com/65063044/222367462-506fd195-d747-4134-9a51-c090f1e91fcd.png)
+ 
+ 
