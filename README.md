@@ -34,6 +34,9 @@
  #Welcome page
  ![12](https://user-images.githubusercontent.com/65063044/222370150-353bcc89-8fb7-4891-9b68-135569cde3c9.png)
  
+ #view profile page
+ ![13](https://user-images.githubusercontent.com/65063044/222372064-5b535fa3-3525-4b8d-aa0f-bf51dde3153e.png)
+ 
  
  
 
