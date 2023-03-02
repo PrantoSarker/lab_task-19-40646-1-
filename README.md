@@ -19,4 +19,8 @@
  
  ![7](https://user-images.githubusercontent.com/65063044/222367757-a7cc4b70-3ec6-404f-bb07-63efd5cb6fe0.png)
  
+ #json storing data and validation
+ ![8](https://user-images.githubusercontent.com/65063044/222368345-1fc186b3-769f-4922-80a4-d79c64ce937c.png)
+ 
+ 
  
