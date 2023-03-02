@@ -12,3 +12,5 @@
  #Change password-validation
  ![4](https://user-images.githubusercontent.com/65063044/222366327-082d4d23-9fda-4546-b22d-d7f96845eef0.png)
  
+ #Upload image validation
+ ![5](https://user-images.githubusercontent.com/65063044/222367082-74909464-e9c0-4e33-a452-231c4b202704.png)
