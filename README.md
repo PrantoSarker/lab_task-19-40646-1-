@@ -30,5 +30,11 @@
  
  #login validation
  ![11](https://user-images.githubusercontent.com/65063044/222369750-e2b9b8d9-8bd6-4a09-bc1f-ea4d19cf438a.png)
+ 
+ #Welcome page
+ ![12](https://user-images.githubusercontent.com/65063044/222370150-353bcc89-8fb7-4891-9b68-135569cde3c9.png)
+ 
+ 
+ 
 
  
