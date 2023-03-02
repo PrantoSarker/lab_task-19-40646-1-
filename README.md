@@ -9,4 +9,6 @@
  Login-validation
  ![3](https://user-images.githubusercontent.com/65063044/222365806-07b5a960-dc49-483b-b518-7d633b212115.png)
  
+ #Change password-validation
+ ![4](https://user-images.githubusercontent.com/65063044/222366327-082d4d23-9fda-4546-b22d-d7f96845eef0.png)
  
