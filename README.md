@@ -46,6 +46,11 @@
  
  ![Login interface](https://user-images.githubusercontent.com/65063044/235045900-39caafad-fcb2-49ba-9af7-d1f39899a026.png)
 
+Registration 
+
+![signup interface-1](https://user-images.githubusercontent.com/65063044/235046073-3d3abf80-0959-4dc0-bb8f-18f8277ff0bf.png)
+
+![signup interface-2](https://user-images.githubusercontent.com/65063044/235046077-6a94195a-9665-4436-b38a-68366d7bfc1f.png)
  
 
  
