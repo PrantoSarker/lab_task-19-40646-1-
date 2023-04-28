@@ -52,6 +52,14 @@ Registration
 
 ![signup interface-2](https://user-images.githubusercontent.com/65063044/235046077-6a94195a-9665-4436-b38a-68366d7bfc1f.png)
  
+ View profile
+ 
+![view profile](https://user-images.githubusercontent.com/65063044/235046236-b9f7cb6a-5a2d-4947-9ebb-d9ed09804b0a.png)
+
+Edit profile
+
+![edit profile](https://user-images.githubusercontent.com/65063044/235046245-b715af11-7d11-4299-a374-1e4eeb768c44.png)
+
 
  
  
