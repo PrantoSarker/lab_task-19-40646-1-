@@ -82,7 +82,20 @@ Package confirm validation with js
 ![packageconfirmvalidation](https://user-images.githubusercontent.com/65063044/235051137-3d69fa0f-7f80-4630-bccd-d489e66190bf.png)
 
 
+ Lab task-9
  
+ Package insert/package order
+![Packageinsert](https://user-images.githubusercontent.com/65063044/235053184-5c992595-106f-4dd9-94db-60b869e35d04.png)
+
+package list
+![packagelist](https://user-images.githubusercontent.com/65063044/235053186-5af9255d-b2dc-4002-be66-661cf37a82ca.png)
+
+Package search
+![packagesearch](https://user-images.githubusercontent.com/65063044/235053188-367c72e3-1dc7-45db-b3c9-a82666525116.png)
+
+package search
+![packagesearch1](https://user-images.githubusercontent.com/65063044/235053189-75d51c15-7e3c-4c88-8d27-e6438d6f6c23.png)
+
  
  
 
