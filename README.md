@@ -39,7 +39,7 @@
  
  #Lab task-6
  #Dashboard
- ![14][dashboard](https://user-images.githubusercontent.com/65063044/235044767-c53bdb25-13c5-49d7-91fa-e92364d5d844.png)
+ !https://user-images.githubusercontent.com/65063044/235044767-c53bdb25-13c5-49d7-91fa-e92364d5d844.png)
  
  
 
