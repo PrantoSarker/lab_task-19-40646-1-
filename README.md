@@ -38,7 +38,9 @@
  ![13](https://user-images.githubusercontent.com/65063044/222372064-5b535fa3-3525-4b8d-aa0f-bf51dde3153e.png)
  
  #Lab task-6
- #Dashboard
+ Dashboard
+ 
+ ![dashboard](https://user-images.githubusercontent.com/65063044/235045631-4b8a1b10-6c54-4a26-85b4-57a9e5d05f5f.png)
  
 
  
