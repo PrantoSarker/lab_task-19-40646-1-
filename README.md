@@ -60,6 +60,10 @@ Edit profile
 
 ![edit profile](https://user-images.githubusercontent.com/65063044/235046245-b715af11-7d11-4299-a374-1e4eeb768c44.png)
 
+Change password
+
+![changepassword](https://user-images.githubusercontent.com/65063044/235046459-8d9cd604-e9db-44a0-bb6d-2315f205703f.png)
+
 
  
  
