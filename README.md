@@ -37,6 +37,9 @@
  #view profile page
  ![13](https://user-images.githubusercontent.com/65063044/222372064-5b535fa3-3525-4b8d-aa0f-bf51dde3153e.png)
  
+ #Lab task-6
+ #Dashboard
+ ![14][dashboard](https://user-images.githubusercontent.com/65063044/235044767-c53bdb25-13c5-49d7-91fa-e92364d5d844.png)
  
  
 
