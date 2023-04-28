@@ -66,6 +66,19 @@ Change password
 
 Lab task-8
 
+Registration/signup validation with js
+![reigistration validation with js-1](https://user-images.githubusercontent.com/65063044/235051139-3c95bb99-d40f-4406-9577-78f432373e82.png)
+![reigistration validation with js-2](https://user-images.githubusercontent.com/65063044/235051131-f1a03af4-7016-41a2-a8fb-1492a3167e75.png)
+
+Forget password validation with js
+![change password validation](https://user-images.githubusercontent.com/65063044/235051134-b5c82603-35a2-40a3-b69d-043beac64380.png)
+
+Login validation with js
+![login validation with js](https://user-images.githubusercontent.com/65063044/235051135-41544b18-22ed-4107-9d46-8dc48d54d945.png)
+
+Package confirm validation with js
+![packageconfirmvalidation](https://user-images.githubusercontent.com/65063044/235051137-3d69fa0f-7f80-4630-bccd-d489e66190bf.png)
+
 
  
  
