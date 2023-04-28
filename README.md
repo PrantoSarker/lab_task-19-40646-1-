@@ -69,7 +69,7 @@ Lab task-8
 Registration/signup validation with js
 ![reigistration validation with js-1](https://user-images.githubusercontent.com/65063044/235051139-3c95bb99-d40f-4406-9577-78f432373e82.png)
 ![reigistration validation with js-2](https://user-images.githubusercontent.com/65063044/235051131-f1a03af4-7016-41a2-a8fb-1492a3167e75.png)
-![reigistration validation with js-3](https://user-images.githubusercontent.com/65063044/235051562-dc7b905b-73ce-4040-b2a6-181be35482cf.png)
+![reigistration validation with js-3](https://user-images.githubusercontent.com/65063044/235051791-e7e8a893-7f13-490c-a5d5-cb3e4d8957d6.png)
 
 
 Forget password validation with js
